@@ -37,9 +37,9 @@
 # b = 6.556551
 # print(round(a*b, 3))
 
-text = 'Возмьи то не зная что и пойди не зная куда.'
-print(text[2:15])
-if text[5:6] == text[22:23]:
-    print('Да')
-else:
-    print('Нет')
+# text = 'Возмьи то не зная что и пойди не зная куда.'
+# print(text[2:15])
+# if text[5:6] == text[22:23]:
+#     print('Да')
+# else:
+#     print('Нет')
