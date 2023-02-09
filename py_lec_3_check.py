@@ -1,6 +1,6 @@
-import py_lec_3_modul
+# import py_lec_3_modul
 
-print(py_lec_3_modul.max(5, 9))
+# print(py_lec_3_modul.max(5, 9))
 
 # или
 
